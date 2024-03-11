@@ -5,10 +5,10 @@ main {
   width: 317px;
   height: 715px;
 
-  border-radius: 0px 0px 0px 0px;
+  border-radius: 10px 10px 0px 0px;
   margin: auto;
   text-align: left;
-  margin-top: 100px;
+  
 }
 h1 {
   font-size: 25px;
@@ -49,7 +49,7 @@ button {
 .button-container {
   display: flex;
   justify-content: space-between;
-  padding: 0px 31px;
+  padding: 0px 30px;
 }
 .button-one {
   background-color: #ffffff;
@@ -83,4 +83,13 @@ p {
 
 .interests {
   margin-top: 20px;
+}
+
+
+.Container {
+width: 500px;
+height: 900px;
+    background-color: #23272d;
+    padding-top: 50px;
+    margin: auto;
 }

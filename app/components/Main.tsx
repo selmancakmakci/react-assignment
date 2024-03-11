@@ -11,7 +11,7 @@ import Icon2 from "../../public/linkedin.png"
 
 export default function Main() {
 return (
-    <>
+    <div className="Container">
    
     <main>
         <Image src={Header} alt="header-photo" height={317} ></Image>
@@ -34,7 +34,7 @@ return (
     <Footer />
     
     
-    </>
+    </div>
      
 )
 
