@@ -1,0 +1,17 @@
+footer {
+  background-color: #161619;
+  display: flex;
+  justify-content: space-between;
+  width: 317px;
+  height: 65px;
+  padding: 20px 73px;
+  border-radius: 0px 0px 10px 10px;
+  margin: auto;
+
+  box-shadow: 0px 3px 2px 0px #050507;
+}
+
+footer img {
+  width: 25px;
+  height: 25px;
+}
